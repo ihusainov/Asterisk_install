@@ -1,5 +1,5 @@
 # Шаг 0
-Свежеустановленный контейнер с Debian 9, сконфигурирован ssh, консоль и таймзона (я использую ProxMox и темплейт Debian 9)
+Свежеустановленный контейнер с Debian 9, сконфигурирован ssh, консоль и таймзона - Debian 9
 
 # Шаг 1
 Обновление и немного пакетов:
@@ -224,7 +224,4 @@ Extension: 89051200829
 Archive: No
 ```
 
-# Шаг 7
-
-[https://docs.google.com](https://docs.google.com/spreadsheets/d/1lwgcC2TLablau8Jq6P7KJRV8CaKUXsPw95wS5jh2Ilw/edit?usp=sharing)
 
